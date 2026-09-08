@@ -58,3 +58,7 @@ data/uploads/*
 *.swo
 .DS_Store
 Thumbs.db
+
+# Test runtime data
+data/test_app.db
+data/test_chroma/
